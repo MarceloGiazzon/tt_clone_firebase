@@ -1,0 +1,16 @@
+.videoSidebar {
+    position: relative;
+    /* top: 8%; */
+    /* left: 30px; */
+    color: #fff;
+    top: -60%;
+    /* width: 100%; */
+    align-items: left;
+    float: right;
+
+}
+
+.videoSidebar__options {
+    padding: 20px;
+    text-align: center;
+} 
